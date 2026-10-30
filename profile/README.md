@@ -9,6 +9,8 @@ O **Kore** é uma plataforma completa de gestão para salões e estúdios, desen
 
 ## 🏛️ Visão Geral da Arquitetura
 
+<img width="1700" height="1120" alt="imagem" src="https://github.com/user-attachments/assets/5554fd22-0d4b-48c1-9d5c-2598048cdd23" />
+
 A aplicação adota uma estrutura modular e desacoplada, dividida em três frentes de software mais a camada de infraestrutura:
 
 * **API Principal (`backend/kore`):** Desenvolvida em Java 21 e Spring Boot em arquitetura em camadas (`controller -> service -> repository -> model`). Responde pela autenticação JWT, regras de negócio e streaming de eventos via **SSE** (*Server-Sent Events*).
