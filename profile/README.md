@@ -22,6 +22,9 @@ A aplicação adota uma estrutura modular e desacoplada, dividida em três frent
 
 ## 👥 Equipe e Colaboração
 
+<img width="1920" height="1080" alt="imagem" src="https://github.com/user-attachments/assets/12d4f85e-b343-434d-897e-c2f61ae37758" />
+
+
 Projeto desenvolvido de forma integrada por uma equipe de estudantes do curso de **Análise e Desenvolvimento de Sistemas** da **São Paulo Tech School** *(incluindo a colaboração de Henry Franz Ramos Arcaya, Ana Mioki, Caroline Soares, Diogo Procopio, Guilherme Faria de Mira e Vitor Restini)*. A atuação conjunta uniu competências em:
 
 * **Engenharia Full-Stack:** Construção de backends robustos em Java/Spring Boot e interfaces dinâmicas e responsivas em React.
